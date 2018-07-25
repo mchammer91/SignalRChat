@@ -1,0 +1,23 @@
+{
+  "name": "SignalRChat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mchammer91/SignalRChat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mchammer91/SignalRChat/issues"
+  },
+  "homepage": "https://github.com/mchammer91/SignalRChat#readme",
+  "dependencies": {
+    "@aspnet/signalr": "^1.0.2"
+  }
+}
